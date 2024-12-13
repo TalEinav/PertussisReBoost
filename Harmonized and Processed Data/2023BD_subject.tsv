@@ -1,0 +1,55 @@
+subject_id	infancy_vac	biological_sex	ethnicity	race	year_of_birth	date_of_boost	dataset
+119	aP	Female	Not Hispanic or Latino	White	1998-01-01	2021-11-29	2023_dataset
+120	wP	Female	Hispanic or Latino	Unknown or Not Reported	1995-01-01	2022-02-14	2023_dataset
+121	aP	Female	Not Hispanic or Latino	Asian	2000-01-01	2022-02-14	2023_dataset
+122	aP	Female	Hispanic or Latino	More Than One Race	1999-01-01	2022-02-14	2023_dataset
+123	wP	Female	Hispanic or Latino	More Than One Race	1996-01-01	2022-03-07	2023_dataset
+124	aP	Male	Hispanic or Latino	Unknown or Not Reported	2000-01-01	2022-03-07	2023_dataset
+125	wP	Male	Hispanic or Latino	Unknown or Not Reported	1993-01-01	2022-03-07	2023_dataset
+126	wP	Male	Not Hispanic or Latino	White	1993-01-01	2022-03-28	2023_dataset
+127	aP	Female	Hispanic or Latino	More Than One Race	1996-01-01	2022-03-28	2023_dataset
+128	wP	Female	Hispanic or Latino	White	1994-01-01	2022-04-18	2023_dataset
+129	wP	Male	Not Hispanic or Latino	White	1991-01-01	2022-04-18	2023_dataset
+130	wP	Male	Not Hispanic or Latino	White	1996-01-01	2022-04-18	2023_dataset
+131	aP	Female	Hispanic or Latino	White	1998-01-01	2022-05-09	2023_dataset
+132	wP	Male	Not Hispanic or Latino	White	1995-01-01	2022-05-09	2023_dataset
+133	aP	Female	Unknown	Unknown or Not Reported	1997-01-01	2022-05-31	2023_dataset
+134	wP	Male	Not Hispanic or Latino	More Than One Race	1990-01-01	2022-05-31	2023_dataset
+135	wP	Male	Hispanic or Latino	More Than One Race	1995-01-01	2022-07-25	2023_dataset
+136	wP	Female	Not Hispanic or Latino	Asian	1995-01-01	2022-05-31	2023_dataset
+137	aP	Female	Not Hispanic or Latino	White	1998-01-01	2022-07-05	2023_dataset
+138	aP	Male	Hispanic or Latino	Unknown or Not Reported	2000-01-01	2022-07-25	2023_dataset
+139	wP	Female	Not Hispanic or Latino	Asian	1993-01-01	2022-07-25	2023_dataset
+140	aP	Female	Not Hispanic or Latino	Asian	2001-01-01	2022-09-12	2023_dataset
+141	wP	Female	Not Hispanic or Latino	White	1996-01-01	2022-09-12	2023_dataset
+142	aP	Female	Not Hispanic or Latino	Asian	1991-01-01	2022-11-28	2023_dataset
+143	aP	Female	Hispanic or Latino	More Than One Race	2003-01-01	2022-11-28	2023_dataset
+144	aP	Female	Not Hispanic or Latino	White	1999-01-01	2022-11-28	2023_dataset
+145	aP	Male	Not Hispanic or Latino	White	2002-01-01	2022-11-28	2023_dataset
+146	wP	Male	Not Hispanic or Latino	Black or African American	1992-01-01	2023-01-03	2023_dataset
+147	aP	Female	Hispanic or Latino	White	2000-01-01	2023-01-03	2023_dataset
+148	wP	Male	Not Hispanic or Latino	Black or African American	1988-01-01	2023-01-03	2023_dataset
+149	wP	Female	Hispanic or Latino	Unknown or Not Reported	1991-01-01	2023-01-03	2023_dataset
+150	wP	Male	Hispanic or Latino	White	1991-01-01	2023-01-03	2023_dataset
+151	wP	Female	Not Hispanic or Latino	Asian	1992-01-01	2023-01-17	2023_dataset
+152	wP	Female	Hispanic or Latino	More Than One Race	1995-01-01	2023-02-14	2023_dataset
+153	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2023-02-14	2023_dataset
+154	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2023-02-14	2023_dataset
+155	aP	Female	Not Hispanic or Latino	White	1997-01-01	2023-03-13	2023_dataset
+156	aP	Female	Not Hispanic or Latino	White	2001-01-01	2023-03-13	2023_dataset
+157	aP	Female	Not Hispanic or Latino	White	1997-01-01	2023-03-13	2023_dataset
+158	aP	Male	Not Hispanic or Latino	White	2000-01-01	2023-03-13	2023_dataset
+159	wP	Female	Not Hispanic or Latino	Asian	1994-01-01	2023-03-13	2023_dataset
+160	aP	Male	Not Hispanic or Latino	Black or African American	1996-01-01	2023-05-01	2023_dataset
+161	aP	Female	Not Hispanic or Latino	More Than One Race	1993-01-01	2023-05-01	2023_dataset
+162	aP	Female	Not Hispanic or Latino	White	1999-01-01	2023-07-24	2023_dataset
+163	wP	Female	Not Hispanic or Latino	White	1993-01-01	2023-07-24	2023_dataset
+164	wP	Male	Not Hispanic or Latino	White	1991-01-01	2023-07-24	2023_dataset
+165	wP	Female	Not Hispanic or Latino	White	1993-01-01	2023-07-24	2023_dataset
+166	aP	Female	Not Hispanic or Latino	Asian	2001-01-01	2023-09-05	2023_dataset
+167	aP	Male	Not Hispanic or Latino	White	1997-01-01	2023-09-05	2023_dataset
+168	wP	Male	Not Hispanic or Latino	White	1991-01-01	2023-09-05	2023_dataset
+169	aP	Male	Not Hispanic or Latino	Asian	2003-01-01	2023-09-05	2023_dataset
+170	wP	Male	Not Hispanic or Latino	White	1992-01-01	2023-10-02	2023_dataset
+171	wP	Female	Not Hispanic or Latino	Asian	2003-01-01	2023-11-13	2023_dataset
+172	wP	Male	Not Hispanic or Latino	White	1986-01-01	2022-01-24	2023_dataset

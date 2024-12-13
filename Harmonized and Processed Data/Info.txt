@@ -1,0 +1,5 @@
+Downloaded from 
+https://www.cmi-pb.org/downloads/cmipb_challenge_datasets/current/3rd_challenge/harmonized_and_processed_data/master_allData_batchCorrected_TSV/
+
+Subjects files were used from the raw data because they included Age, which should be an important feature:
+https://www.cmi-pb.org/downloads/cmipb_challenge_datasets/current/3rd_challenge/raw_datasets/
